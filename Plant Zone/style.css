@@ -1,0 +1,50 @@
+
+
+
+/* banner_section start */ 
+.banner_section .banner_img{
+    position: relative;
+}
+.banner_section .banner_text{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    color: #FFF;
+    background-color: rgba(0, 0, 0, 0.319);
+    font-family: "Itim", cursive;
+
+}
+
+.make-your h2{
+    padding-top: 200px;
+        font-family: "Itim", cursive;
+
+}
+
+/* gellary start */
+
+.gellary {
+    margin-top: 30px;
+}
+
+.gellary h1 {
+    font-family: "Itim", cursive;
+
+}
+
+.gellary .card {
+    transition: all 1s;
+}
+
+.gellary .card:hover {
+    transform: scale(1.1);
+}
+
+/* gellary end */
+
+
+.news h1{
+    font-family: "Itim", cursive;
+margin-top: 100px;
+padding-bottom: 100px;
+}
